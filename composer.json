@@ -13,7 +13,8 @@
         "silverstripe/elemental-bannerblock": "^3.1",
         "dynamic/silverstripe-elemental-accordion": "^4.0",
         "dynamic/silverstripe-elemental-carousel": "1.x-dev",
-        "dynamic/recipe-silverstripe-elemental-base-site": "^3.0"
+        "dynamic/recipe-silverstripe-elemental-base-site": "^3.0",
+        "ilateral/silverstripe-bootstrap-4": "^1.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.6"

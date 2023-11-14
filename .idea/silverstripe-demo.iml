@@ -121,6 +121,17 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/silverstripe/campaign-admin" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/silverstripe/vendor-plugin" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/silvershop/silverstripe-hasonefield" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/sheadawson/silverstripe-dependentdropdownfield" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dynamic/silverstripe-elemental-filelist" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dynamic/recipe-silverstripe-elemental-base-site" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dynamic/silverstripe-elemental-blog" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dynamic/silverstripe-elemental-promos" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dynamic/silverstripe-elemental-image" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dynamic/silverstripe-elemental-embedded-code" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dynamic/silverstripe-elemental-features" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/silverstripe/lumberjack" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/silverstripe/tagfield" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/silverstripe/blog" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -119,6 +119,17 @@
       <path value="$PROJECT_DIR$/vendor/silverstripe/campaign-admin" />
       <path value="$PROJECT_DIR$/vendor/silverstripe/vendor-plugin" />
       <path value="$PROJECT_DIR$/vendor/silvershop/silverstripe-hasonefield" />
+      <path value="$PROJECT_DIR$/vendor/sheadawson/silverstripe-dependentdropdownfield" />
+      <path value="$PROJECT_DIR$/vendor/dynamic/silverstripe-elemental-filelist" />
+      <path value="$PROJECT_DIR$/vendor/dynamic/recipe-silverstripe-elemental-base-site" />
+      <path value="$PROJECT_DIR$/vendor/dynamic/silverstripe-elemental-blog" />
+      <path value="$PROJECT_DIR$/vendor/dynamic/silverstripe-elemental-promos" />
+      <path value="$PROJECT_DIR$/vendor/dynamic/silverstripe-elemental-image" />
+      <path value="$PROJECT_DIR$/vendor/dynamic/silverstripe-elemental-embedded-code" />
+      <path value="$PROJECT_DIR$/vendor/dynamic/silverstripe-elemental-features" />
+      <path value="$PROJECT_DIR$/vendor/silverstripe/lumberjack" />
+      <path value="$PROJECT_DIR$/vendor/silverstripe/tagfield" />
+      <path value="$PROJECT_DIR$/vendor/silverstripe/blog" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
